@@ -13,5 +13,5 @@ A simple React application to create, edit, delete, and tag notes, with data per
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/faradayse/notes-app.git
-   cd notes-app
+   git clone https://github.com/faradayse/Notes-app.git
+   cd Notes-app
